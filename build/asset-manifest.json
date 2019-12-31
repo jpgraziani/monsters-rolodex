@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jpgraziani/monsters-rolodex.git/static/css/main.6fc730e1.chunk.css",
+    "main.js": "/jpgraziani/monsters-rolodex.git/static/js/main.c2e73fae.chunk.js",
+    "main.js.map": "/jpgraziani/monsters-rolodex.git/static/js/main.c2e73fae.chunk.js.map",
+    "runtime-main.js": "/jpgraziani/monsters-rolodex.git/static/js/runtime-main.3f188e82.js",
+    "runtime-main.js.map": "/jpgraziani/monsters-rolodex.git/static/js/runtime-main.3f188e82.js.map",
+    "static/js/2.e6fbc2c9.chunk.js": "/jpgraziani/monsters-rolodex.git/static/js/2.e6fbc2c9.chunk.js",
+    "static/js/2.e6fbc2c9.chunk.js.map": "/jpgraziani/monsters-rolodex.git/static/js/2.e6fbc2c9.chunk.js.map",
+    "index.html": "/jpgraziani/monsters-rolodex.git/index.html",
+    "precache-manifest.eef8938e1d7ea36ae7625bab4a659d52.js": "/jpgraziani/monsters-rolodex.git/precache-manifest.eef8938e1d7ea36ae7625bab4a659d52.js",
+    "service-worker.js": "/jpgraziani/monsters-rolodex.git/service-worker.js",
+    "static/css/main.6fc730e1.chunk.css.map": "/jpgraziani/monsters-rolodex.git/static/css/main.6fc730e1.chunk.css.map",
+    "static/js/2.e6fbc2c9.chunk.js.LICENSE": "/jpgraziani/monsters-rolodex.git/static/js/2.e6fbc2c9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f188e82.js",
+    "static/js/2.e6fbc2c9.chunk.js",
+    "static/css/main.6fc730e1.chunk.css",
+    "static/js/main.c2e73fae.chunk.js"
+  ]
+}
